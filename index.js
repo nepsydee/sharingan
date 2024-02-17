@@ -8,7 +8,7 @@ const play = new Audio();
 play.src = "./i.mp3";
 
 const sound = new Audio();
-sound.src = "./o.mp3";
+sound.src = "./obito.mp3";
 
 const listen = new Audio();
 listen.src = "./u.mp3";
